@@ -1,0 +1,17 @@
+body {
+
+    text-align: center;
+    background: url(fondo1.jpg);  
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+.textadd {
+   
+    text-align: center;
+    color: rgb(253, 0, 0);
+    background: url(imagen1.png);
+    width: 739px;    
+    height: 768px;
+}
